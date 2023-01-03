@@ -1,0 +1,380 @@
+[
+    {
+    "titre": "Avatar",
+    "réalisateur": "James Cameron",
+    "durée": 162,
+    "production": 2021,
+    "Poster":"https://i.ebayimg.com/images/g/qrwAAOSwwzdjZRBH/s-l400.jpg",
+    "Festivals": [" maraciche "," gznaya ", " matyname"],
+    "Acteurs": [
+        {
+            "name": "Sam",
+            "prenom": "Worthington",
+            "nationality": "american"
+        },
+        {
+            "name": "Zoe",
+            "prenom": "Saldana",
+            "nationality": "morooco"
+        },
+        {
+            "name": "Sigourney",
+            "prenom": "Weaver",
+            "nationality": "american"
+        },
+        {
+            "name": "Stephen ",
+            "prenom": "Lang",
+            "nationality": "korean"
+        }
+            ]
+    } ,
+
+    {
+    "titre": "Carter",
+    "réalisateur": "Dived Maulin",
+    "durée": 213,
+    "production": 2022,
+    "Poster": "https://www.cartercenter.org/images/president-jimmy-carter-flag-cropped.jpg",
+    "Festivals": [" mze.x "," derocean ", " matyname"],
+    "Acteurs": [
+        {
+            "name": "Joo",
+            "prenom": "Won",
+            "nationality": "korean"
+        },
+        {
+            "name": "Camilla ",
+            "prenom": "Belle",
+            "nationality": "american"
+        },
+        {
+            "name": "Mike ",
+            "prenom": "Colter",
+            "nationality": "american"
+        },
+        {
+            "name": "Lee",
+            "prenom": "Sung-jae",
+            "nationality": "korean"
+        }
+            ]
+    } ,
+
+    {
+    "titre": "legend",
+    "réalisateur": "Francis Lawrence",
+    "durée": 101 ,
+    "production": 2007,
+    "Poster": "https://m.media-amazon.com/images/I/91Xmg5sQQZL.jpg",
+    "Festivals": [" Ultra Europe"," krosing ", " malgona" , "yosifall"],
+    "Acteurs": [
+        {
+            "name": "bagna ",
+            "prenom": "Smith",
+            "nationality": "japon"
+        },
+        {
+            "name": "Alice  ",
+            "prenom": "Braga",
+            "nationality": "american"
+        },
+        {
+            "name": "Charlie  ",
+            "prenom": "Tahan",
+            "nationality": "american"
+        },
+        {
+            "name": "Lee",
+            "prenom": "Richardson-Whitfield",
+            "nationality": "korean"
+        },
+        {
+            "name": "john",
+            "prenom": "lithgow",
+            "nationality": "korean"
+        }
+            ]
+    } ,
+
+    {
+    "titre": "I Am Legend",
+    "réalisateur": "Joss Whedon",
+    "durée": 143  ,
+    "production": 2012,
+    "Poster": "https://m.media-amazon.com/images/I/815oKqKUo4L.jpg",
+    "Festivals": [" mawlostaxt "," revole ", " hamdona"],
+    "Acteurs": [
+        {
+            "name": "Robert",
+            "prenom": "Downey",
+            "nationality": "american"
+        },
+        {
+            "name": "chris",
+            "prenom": "evans",
+            "nationality": "american"
+        },
+        {
+            "name": "mark",
+            "prenom": "ruffalo",
+            "nationality": "american"
+        },
+        {
+            "name": "maneyo ",
+            "prenom": "hemsworth",
+            "nationality": "korean"
+        }
+            ]
+    } ,
+
+        {
+    "titre": "Interstellar",
+    "réalisateur": "Christopher Nolan",
+    "durée": 162,
+    "production": 2022,
+    "Poster":"https://m.media-amazon.com/images/I/81kz06oSUeL.jpg",
+    "Festivals": [" nuoyorksity "," gznaya ", " matyname"],
+    "Acteurs": [
+        {
+            "name": "ellen",
+            "prenom": "burstyn",
+            "nationality": "american"
+        },
+        {
+            "name": "matthew ",
+            "prenom": "mconaughey",
+            "nationality": "morooco"
+        },
+        {
+            "name": "mackenzie ",
+            "prenom": "foy",
+            "nationality": "american"
+        }
+
+            ]
+    } ,
+
+    {
+    "titre": "Game of Thrones",
+    "réalisateur": "David Benioff",
+    "durée": 56,
+    "production": 2011,
+    "Poster": "https://i.pinimg.com/originals/62/94/4a/62944a08803343aea1be121735d55b0d.jpg",
+    "Festivals": ["Airbeat One Festival"," EDC Portugal ", " matyname" ,"ruefjok"],
+    "Acteurs": [
+        {
+            "name": "Lena ",
+            "prenom": "Won",
+            "nationality": "korean"
+        },
+        {
+            "name": "Peter  ",
+            "prenom": "Headey",
+            "nationality": "american"
+        },
+        {
+            "name": "Mike ",
+            "prenom": "Colter",
+            "nationality": "american"
+        },
+        {
+            "name": "Emilia ",
+            "prenom": "Clarke",
+            "nationality": "american"
+        },
+        {
+            "name": "amili ",
+            "prenom": "clayn",
+            "nationality": "american"
+        }
+            ]
+    } ,
+
+    {
+    "titre": "Narcos",
+    "réalisateur": "Kobenten Lawrence",
+    "durée": 101 ,
+    "production": 2007,
+    "Poster": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/c88fcc24094361.56d83d73be55c.jpg",
+    "Festivals": [" Ultra Europe"," krosing ", " malgona"],
+    "Acteurs": [
+        {
+            "name": "Will ",
+            "prenom": "Smith",
+            "nationality": "japon"
+        },
+        {
+            "name": "Alice  ",
+            "prenom": "Braga",
+            "nationality": "american"
+        },
+        {
+            "name": "Charlie  ",
+            "prenom": "Tahan",
+            "nationality": "american"
+        },
+        {
+            "name": "Lee",
+            "prenom": "Richardson-Whitfield",
+            "nationality": "korean"
+        }
+            ]
+    } ,
+
+    {
+    "titre": "Breaking Bad",
+    "réalisateur": "imrane hamden",
+    "durée": 55  ,
+    "production": 2016,
+    "Poster": "https://i.annihil.us/u/prod/marvel/i/mg/e/50/61ae2bc0a4c3e/portrait_uncanny.jpg",
+    "Festivals": [" maraceche "," revole ", " EDC Portugal"],
+    "Acteurs": [
+        {
+            "name": "Mahershala",
+            "prenom": "Ali",
+            "nationality": "american"
+        },
+        {
+            "name": "Mike ",
+            "prenom": "Colter ",
+            "nationality": "american"
+        },
+        {
+            "name": "Frankie ",
+            "prenom": "Faison ",
+            "nationality": "american"
+        },
+        {
+            "name": "Erik  ",
+            "prenom": "LaRay ",
+            "nationality": "Harvey"
+        }
+            ]
+    },
+
+    {
+    "titre": "Doctor Strange",
+    "réalisateur": "Scott Derrickson",
+    "durée": 124,
+    "production": 2016,
+    "Poster":"https://cdn.europosters.eu/image/1300/posters/doctor-strange-hand-i32870.jpg",
+    "Festivals": [" maraciche "," gznaya ", " matyname"],
+    "Acteurs": [
+        {
+            "name": "Rachel ",
+            "prenom": "McAdams",
+            "nationality": "american"
+        },
+        {
+            "name": "Zoe",
+            "prenom": "Lang",
+            "nationality": "morooco"
+        },
+        {
+            "name": "Zoe",
+            "prenom": "Weaver",
+            "nationality": "american"
+        },
+        {
+            "name": "Saldana ",
+            "prenom": "against ",
+            "nationality": "korean"
+        }
+            ]
+    } ,
+
+    {
+    "titre": "movie",
+    "réalisateur": "Paul Verhoeven",
+    "durée": 50,
+    "production": 2019,
+    "Poster": "https://movieposters2.com/images/1722488-b.jpg",
+    "Festivals": ["Untold Festival "," mawga ", " EDC Portugal"],
+    "Acteurs": [
+        {
+            "name": "Omari ",
+            "prenom": "Hardwick",
+            "nationality": "korean"
+        },
+        {
+            "name": "Joseph  ",
+            "prenom": "Sikora",
+            "nationality": "american"
+        },
+        {
+            "name": "Mike ",
+            "prenom": "Lela ",
+            "nationality": "american"
+        },
+        {
+            "name": "Bean",
+            "prenom": "Lorene",
+            "nationality": "korean"
+        }
+            ]
+    } ,
+
+    {
+    "titre": "I Am Legend",
+    "réalisateur": "Francis Lawrence",
+    "durée": 101 ,
+    "production": 2007,
+    "Poster": "https://m.media-amazon.com/images/I/91Xmg5sQQZL.jpg",
+    "Festivals": [" Ultra Europe"," Creamfields ", " malgona"],
+    "Acteurs": [
+        {
+            "name": "Will ",
+            "prenom": "Smith",
+            "nationality": "japon"
+        },
+        {
+            "name": "Alice  ",
+            "prenom": "Braga",
+            "nationality": "american"
+        },
+        {
+            "name": "Charlie  ",
+            "prenom": "Tahan",
+            "nationality": "american"
+        },
+        {
+            "name": "Lee",
+            "prenom": "Richardson-Whitfield",
+            "nationality": "korean"
+        }
+            ]
+    } ,
+
+    {
+    "titre": "A Star Wars Story",
+    "réalisateur": "Movie Lawrence",
+    "durée": 101 ,
+    "production": 2016,
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_.jpg",
+    "Festivals": [" Creamfields "," hamdona ", " hanana"],
+    "Acteurs": [
+        {
+            "name": "Ahmed",
+            "prenom": "Smith",
+            "nationality": "japon"
+        },
+        {
+            "name": "Mads   ",
+            "prenom": "Braga",
+            "nationality": "american"
+        },
+        {
+            "name": "Mikkelsen  ",
+            "prenom": "Mendelsohn",
+            "nationality": "american"
+        },
+        {
+            "name": "Lee",
+            "prenom": "Richardson-Whitfield",
+            "nationality": "korean"
+        }
+            ]
+    } 
+
+]
